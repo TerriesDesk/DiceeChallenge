@@ -37,5 +37,10 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+}
 
+.redflag {
+  display: inline;
+  width: 140px;
+  transform: rotate(20deg);
 }
